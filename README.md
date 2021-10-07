@@ -24,15 +24,11 @@
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
- 
-
-
-![Aditi's github stats](https://github-readme-stats.vercel.app/api?username=annannya&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annannya&hide=scss&layout=compact&theme=tokyonight)
 
 
 
-
+[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/annannya/
 
 
 
