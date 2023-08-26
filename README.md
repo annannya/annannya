@@ -15,7 +15,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-ananya.28sahu01@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ananya.28sahu01@gmail.com)](mailto:ananya.28sahu01@gmail.com)  
 
 - Pronouns: She/Her
-- Fun fact: I'm a huge fan of Elon Musk
+
 
 ### Languages, Frameworks & Tools I use :
 
